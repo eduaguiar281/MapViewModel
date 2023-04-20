@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MapViewModel", "MapViewModel\MapViewModel.csproj", "{686E9CAB-2567-4882-AA9B-9D1582CF889B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidadorAdapter", "ValidadorAdapter\ValidadorAdapter.csproj", "{EB25ABDD-E571-4EDF-9393-9B90344457C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{686E9CAB-2567-4882-AA9B-9D1582CF889B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686E9CAB-2567-4882-AA9B-9D1582CF889B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686E9CAB-2567-4882-AA9B-9D1582CF889B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686E9CAB-2567-4882-AA9B-9D1582CF889B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB25ABDD-E571-4EDF-9393-9B90344457C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB25ABDD-E571-4EDF-9393-9B90344457C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB25ABDD-E571-4EDF-9393-9B90344457C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB25ABDD-E571-4EDF-9393-9B90344457C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1183FB44-257D-48D8-89BB-8CAF8934B53D}
+	EndGlobalSection
+EndGlobal
